@@ -114,22 +114,15 @@ header span {
   text-align: justify;
 }
 
-/*
 .icon{
-  height: 2rem;
+  height: 5rem;
 }
 
 @media (max-width: 900px){
-  .icon{
-    width: 100%;
-    height: 1.6rem;
-  }
-
   header{
-    height: 9rem;
+    height: 10rem;
   }
 }
-*/
 
 /*scrollbar*/
 ::-webkit-scrollbar {
