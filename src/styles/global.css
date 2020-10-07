@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*, button, input {
+  font-family: Roboto, sans-serif;
+}
+
+html{
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  background: #f0f0f5;
+  -webkit-font-smoothing: antialiased;
+}
+
+a{
+  text-decoration: none;
+}
+
+p{
+  text-align: justify;
+}
+
+:root {
+  --color-primary: #0d2f81;
+  --color-secondary: #ffe7aa;
+  --color-tertiary: #fff;
+  --color-quaternary: #000;
+  --color-blue: #0061ff;
+  --color-border: #bdc4c9;
+}
