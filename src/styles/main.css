@@ -619,7 +619,7 @@ justify-content: space-between;
 
 .BusinessContainer img{
   left: 53%;
-  width: 600px;
+  width: 40%;
   margin-top: 5rem;
   margin-left: 10px;
   position: absolute;
@@ -635,8 +635,8 @@ justify-content: space-between;
 }
 
 .BusinessContainer2 img{
-  left: 56%;
-  width: 500px;
+  left: 59%;
+  width:30%;
   margin-left: 10px;
   position: absolute;
   border-radius: 8px 8px 8px 8px;
