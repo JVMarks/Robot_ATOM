@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
- | <a href="#rocket-tecnologias">Tecnologias</a> |   
+ | <a href="#rocket-tecnologias">Tecnologias</a>|   
 </p>
 <br>
 <p align="center">
